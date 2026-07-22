@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" fill="none">
+<defs>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#FF1E3C" stop-opacity="0.25"/><stop offset="1" stop-color="#FF1E3C"/></linearGradient>
+</defs>
+<line x1="20" y1="40" x2="1180" y2="40" stroke="#FF1E3C" stroke-opacity="0.08"/>
+<line x1="20" y1="75" x2="1180" y2="75" stroke="#FF1E3C" stroke-opacity="0.08"/>
+<line x1="20" y1="110" x2="1180" y2="110" stroke="#FF1E3C" stroke-opacity="0.08"/>
+<line x1="20" y1="145" x2="1180" y2="145" stroke="#FF1E3C" stroke-opacity="0.08"/>
+<circle cx="30" cy="20" r="5" fill="#FF1E3C" filter="url(#glow)"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="44" y="25" font-family="monospace" font-size="14" font-weight="700" fill="#FF1E3C" letter-spacing="2">LIVE</text>
+<text x="640" y="25" font-family="monospace" font-size="11" fill="#FF1E3C" fill-opacity="0.55" letter-spacing="1">model health &#183; throughput</text>
+<path d="M24,105 H120 L134,105 L146,64 L158,146 L170,105 H250 L264,105 L276,52 L290,150 L302,105 H382 L396,105 L408,66 L420,142 L432,105 H600" stroke="#FF1E3C" stroke-width="2.2" fill="none" filter="url(#glow)" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="2.2s" repeatCount="indefinite"/></path>
+<circle r="4.5" fill="#fff" filter="url(#glow)"><animateMotion path="M24,105 H120 L134,105 L146,64 L158,146 L170,105 H250 L264,105 L276,52 L290,150 L302,105 H382 L396,105 L408,66 L420,142 L432,105 H600" dur="3.2s" repeatCount="indefinite"/></circle>
+<rect x="700.0" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="28;105;28" dur="1.59s" begin="0.0s" repeatCount="indefinite"/>
+<animate attributeName="y" values="122;45;122" dur="1.59s" begin="0.0s" repeatCount="indefinite"/>
+</rect>
+<rect x="721.6" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="28;98;28" dur="1.31s" begin="0.07s" repeatCount="indefinite"/>
+<animate attributeName="y" values="122;52;122" dur="1.31s" begin="0.07s" repeatCount="indefinite"/>
+</rect>
+<rect x="743.3" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="32;82;32" dur="1.05s" begin="0.14s" repeatCount="indefinite"/>
+<animate attributeName="y" values="118;68;118" dur="1.05s" begin="0.14s" repeatCount="indefinite"/>
+</rect>
+<rect x="764.9" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="30;100;30" dur="1.4s" begin="0.21s" repeatCount="indefinite"/>
+<animate attributeName="y" values="120;50;120" dur="1.4s" begin="0.21s" repeatCount="indefinite"/>
+</rect>
+<rect x="786.5" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="19;76;19" dur="1.26s" begin="0.28s" repeatCount="indefinite"/>
+<animate attributeName="y" values="131;74;131" dur="1.26s" begin="0.28s" repeatCount="indefinite"/>
+</rect>
+<rect x="808.2" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="18;75;18" dur="1.33s" begin="0.35s" repeatCount="indefinite"/>
+<animate attributeName="y" values="132;75;132" dur="1.33s" begin="0.35s" repeatCount="indefinite"/>
+</rect>
+<rect x="829.8" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="34;72;34" dur="1.38s" begin="0.42s" repeatCount="indefinite"/>
+<animate attributeName="y" values="116;78;116" dur="1.38s" begin="0.42s" repeatCount="indefinite"/>
+</rect>
+<rect x="851.5" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="26;98;26" dur="1.42s" begin="0.49s" repeatCount="indefinite"/>
+<animate attributeName="y" values="124;52;124" dur="1.42s" begin="0.49s" repeatCount="indefinite"/>
+</rect>
+<rect x="873.1" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="33;111;33" dur="1.03s" begin="0.56s" repeatCount="indefinite"/>
+<animate attributeName="y" values="117;39;117" dur="1.03s" begin="0.56s" repeatCount="indefinite"/>
+</rect>
+<rect x="894.7" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="14;103;14" dur="0.95s" begin="0.63s" repeatCount="indefinite"/>
+<animate attributeName="y" values="136;47;136" dur="0.95s" begin="0.63s" repeatCount="indefinite"/>
+</rect>
+<rect x="916.4" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="15;82;15" dur="1.6s" begin="0.7s" repeatCount="indefinite"/>
+<animate attributeName="y" values="135;68;135" dur="1.6s" begin="0.7s" repeatCount="indefinite"/>
+</rect>
+<rect x="938.0" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="33;71;33" dur="1.52s" begin="0.77s" repeatCount="indefinite"/>
+<animate attributeName="y" values="117;79;117" dur="1.52s" begin="0.77s" repeatCount="indefinite"/>
+</rect>
+<rect x="959.6" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="24;98;24" dur="1.37s" begin="0.84s" repeatCount="indefinite"/>
+<animate attributeName="y" values="126;52;126" dur="1.37s" begin="0.84s" repeatCount="indefinite"/>
+</rect>
+<rect x="981.3" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="20;103;20" dur="1.09s" begin="0.91s" repeatCount="indefinite"/>
+<animate attributeName="y" values="130;47;130" dur="1.09s" begin="0.91s" repeatCount="indefinite"/>
+</rect>
+<rect x="1002.9" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="23;101;23" dur="0.9s" begin="0.98s" repeatCount="indefinite"/>
+<animate attributeName="y" values="127;49;127" dur="0.9s" begin="0.98s" repeatCount="indefinite"/>
+</rect>
+<rect x="1024.5" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="16;99;16" dur="1.42s" begin="1.05s" repeatCount="indefinite"/>
+<animate attributeName="y" values="134;51;134" dur="1.42s" begin="1.05s" repeatCount="indefinite"/>
+</rect>
+<rect x="1046.2" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="27;105;27" dur="1.7s" begin="1.12s" repeatCount="indefinite"/>
+<animate attributeName="y" values="123;45;123" dur="1.7s" begin="1.12s" repeatCount="indefinite"/>
+</rect>
+<rect x="1067.8" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="16;115;16" dur="1.1s" begin="1.19s" repeatCount="indefinite"/>
+<animate attributeName="y" values="134;35;134" dur="1.1s" begin="1.19s" repeatCount="indefinite"/>
+</rect>
+<rect x="1089.5" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="21;102;21" dur="1.13s" begin="1.26s" repeatCount="indefinite"/>
+<animate attributeName="y" values="129;48;129" dur="1.13s" begin="1.26s" repeatCount="indefinite"/>
+</rect>
+<rect x="1111.1" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="16;106;16" dur="1.51s" begin="1.33s" repeatCount="indefinite"/>
+<animate attributeName="y" values="134;44;134" dur="1.51s" begin="1.33s" repeatCount="indefinite"/>
+</rect>
+<rect x="1132.7" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="26;76;26" dur="1.58s" begin="1.4s" repeatCount="indefinite"/>
+<animate attributeName="y" values="124;74;124" dur="1.58s" begin="1.4s" repeatCount="indefinite"/>
+</rect>
+<rect x="1154.4" width="13.0" rx="2" fill="url(#bar)" filter="url(#glow)">
+<animate attributeName="height" values="26;74;26" dur="1.67s" begin="1.47s" repeatCount="indefinite"/>
+<animate attributeName="y" values="124;76;124" dur="1.67s" begin="1.47s" repeatCount="indefinite"/>
+</rect>
+</svg>

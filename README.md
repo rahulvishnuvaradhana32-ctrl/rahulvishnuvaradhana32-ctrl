@@ -3,9 +3,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=780&lines=Machine+Learning+Engineer;Domain+Expansion%3A+banking-grade+ML;Predicting+failure+before+it+happens;Sequence+models+%C2%B7+Anomaly+detection+%C2%B7+Streaming+ML)](https://rahulvishnuvardhana.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF1E3C&center=true&vCenter=true&width=780&lines=Machine+Learning+Engineer;Domain+Expansion%3A+banking-grade+ML;Predicting+failure+before+it+happens;Sequence+models+%C2%B7+Anomaly+detection+%C2%B7+Streaming+ML)](https://rahulvishnuvardhana.vercel.app)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://rahulvishnuvardhana.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF1E3C?style=for-the-badge&logo=vercel&logoColor=white)](https://rahulvishnuvardhana.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-vishnuvardhana-197890266/)
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-2B2B2B?style=for-the-badge&logo=readdotcv&logoColor=white)](https://rahulvishnuvardhana.vercel.app/resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvardhana.r@northeastern.edu)
@@ -62,12 +62,12 @@ I build machine learning systems that turn messy, real-world data into decisions
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rahulvishnuvaradhana32-ctrl&hide_border=true&background=00000000&stroke=808080&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&titleColor=DC2626&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080" alt="commit streak" />
+<!-- custom animated neon live-monitor panel (EKG + throughput) -->
+<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/dashboard.svg" alt="live monitor" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulvishnuvaradhana32-ctrl&bg_color=00000000&color=DC2626&line=EF4444&point=DC2626&area=true&area_color=DC2626&hide_border=true&custom_title=Cursed%20Energy%20Output" alt="activity graph" />
+<img src="https://streak-stats.demolab.com?user=rahulvishnuvaradhana32-ctrl&hide_border=true&background=00000000&stroke=808080&ring=FF1E3C&fire=FF1E3C&currStreakLabel=FF1E3C&titleColor=FF1E3C&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080" alt="commit streak" />
 
-<!-- red meteor shower (custom animated SVG) -->
-<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/meteors.svg" alt="cursed energy" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulvishnuvaradhana32-ctrl&bg_color=00000000&color=FF1E3C&line=FF5570&point=FF1E3C&area=true&area_color=FF1E3C&hide_border=true&custom_title=Contribution%20Throughput" alt="activity graph" />
 
 </div>
 
@@ -87,4 +87,4 @@ Have an opening, a hard problem, or just want to chat over coffee? **My inbox is
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF1E3C&height=120&section=footer" alt="" />
