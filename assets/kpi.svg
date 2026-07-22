@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" fill="none">
+<defs><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="0.0" y="8" width="286.5" height="104" rx="9" fill="#111318" stroke="#DC143C" stroke-opacity="0.45"/>
+<rect x="0.0" y="8" width="286.5" height="3" rx="1.5" fill="#DC143C" filter="url(#g)"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="143.2" y="64" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="40" fill="#DC143C">3+</text>
+<text x="143.2" y="92" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#9a9aa2">YEARS ENGINEERING</text>
+<rect x="304.5" y="8" width="286.5" height="104" rx="9" fill="#111318" stroke="#DC143C" stroke-opacity="0.45"/>
+<rect x="304.5" y="8" width="286.5" height="3" rx="1.5" fill="#DC143C" filter="url(#g)"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></rect>
+<text x="447.8" y="64" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="40" fill="#DC143C">0.8088</text>
+<text x="447.8" y="92" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#9a9aa2">BEST ROC-AUC</text>
+<rect x="609.0" y="8" width="286.5" height="104" rx="9" fill="#111318" stroke="#DC143C" stroke-opacity="0.45"/>
+<rect x="609.0" y="8" width="286.5" height="3" rx="1.5" fill="#DC143C" filter="url(#g)"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></rect>
+<text x="752.2" y="64" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="40" fill="#DC143C">1</text>
+<text x="752.2" y="92" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#9a9aa2">PEER-REVIEWED PUB</text>
+<rect x="913.5" y="8" width="286.5" height="104" rx="9" fill="#111318" stroke="#DC143C" stroke-opacity="0.45"/>
+<rect x="913.5" y="8" width="286.5" height="3" rx="1.5" fill="#DC143C" filter="url(#g)"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" begin="0.8999999999999999s" repeatCount="indefinite"/></rect>
+<text x="1056.8" y="64" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="40" fill="#DC143C">4</text>
+<text x="1056.8" y="92" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#9a9aa2">FLAGSHIP SYSTEMS</text>
+</svg>
