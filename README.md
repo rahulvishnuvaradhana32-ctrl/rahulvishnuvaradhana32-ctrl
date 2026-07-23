@@ -1,5 +1,5 @@
 <!-- ═══════════════ BANNER (custom, original) ═══════════════ -->
-<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/banner.png" alt="Rahul Vishnuvardhana — Machine Learning Engineer" />
+<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/banner.svg" alt="Rahul Vishnuvardhana — Machine Learning Engineer" />
 
 <div align="center">
 
