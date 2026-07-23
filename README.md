@@ -3,8 +3,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=DC143C&center=true&vCenter=true&width=780&lines=Machine+Learning+Engineer;Turning+noisy+data+into+decisions+people+can+trust;Sequence+models+%C2%B7+Anomaly+detection+%C2%B7+Streaming+ML)](https://rahulvishnuvardhana.vercel.app)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://rahulvishnuvardhana.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-vishnuvardhana-197890266/)
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-2B2B2B?style=for-the-badge&logo=readdotcv&logoColor=white)](https://rahulvishnuvardhana.vercel.app/resume.pdf)
@@ -24,7 +22,7 @@ I build machine learning systems that turn messy, real-world data into decisions
 |---|---|---|---|
 | **LEO API Intelligence** | Multi-horizon LSTM (+ attention, Conv1d) predicting banking-API failures to support ops decisions | `ROC-AUC 0.8088` · `1.94M rows` · `43 feats` | [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/Leo_Api_Intelligence) · [Live](https://leo-api-intelligence.onrender.com) |
 | **JusTrace** | Real-time transaction anomaly detection — Kafka + River + Isolation Forest + LSTM-AE | `streaming` · `14-service Docker` | [Portfolio](https://rahulvishnuvardhana.vercel.app/#projects) |
-| **RNN vs. Transformer** | Robot trajectory prediction on the NCLT dataset; physics-informed Transformer | `0.1494m ADE` · `0.3509m FDE` | [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/EECE7205-Final-Project) |
+| **RNN vs. Transformer** | Robot trajectory prediction on the NCLT dataset; physics-informed Transformer | `0.1494m ADE` · `0.3509m FDE` | [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/robot-trajectory-rnn-vs-transformer) |
 | **Grain-Quality Assessment** 📄 | Undergrad thesis, peer-reviewed — SVM/RF computer-vision pipeline | `IJETMS Vol. 6, 2022` | Publication |
 
 ## ▍ Core Stack
