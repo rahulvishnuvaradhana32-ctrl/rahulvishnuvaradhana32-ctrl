@@ -3,12 +3,15 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://rahulvishnuvardhana.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-vishnuvardhana-197890266/)
-[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-2B2B2B?style=for-the-badge&logo=readdotcv&logoColor=white)](https://rahulvishnuvardhana.vercel.app/resume.pdf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvardhana.r@northeastern.edu)
+[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/btn-portfolio.svg" alt="Portfolio" />](https://rahulvishnuvardhana.vercel.app)
+&nbsp;
+[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/btn-linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/rahul-vishnuvardhana-197890266/)
+&nbsp;
+[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/btn-resume.svg" alt="Résumé" />](https://rahulvishnuvardhana.vercel.app/resume.pdf)
+&nbsp;
+[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/btn-email.svg" alt="Email" />](mailto:vishnuvardhana.r@northeastern.edu)
 
-`● Open to co-op & full-time` &nbsp;·&nbsp; `📍 Boston, MA` &nbsp;·&nbsp; `🎓 MSCE @ Northeastern (Machine Intelligence)`
+`● Open to co-op & full-time` &nbsp;·&nbsp; `📍 Boston, MA` &nbsp;·&nbsp; `🎓 MS ECE @ Northeastern (Machine Intelligence)`
 
 </div>
 
@@ -34,12 +37,10 @@ Built to grade grain quality automatically. A classical computer vision pipeline
 - **Data** &nbsp;: &nbsp; `(Python, Pandas, NumPy, SQL, R)`
 - **MLOps / Deploy** &nbsp;: &nbsp; `(Docker, FastAPI, Kafka, CI/CD, Render)`
 - **Cloud** &nbsp;: &nbsp; `(Microsoft Azure, AZ-900 & DP-203 certified)`
-- **LLM / GenAI** &nbsp;: &nbsp; `(RAG, vector search, prompt workflows)` &nbsp;·&nbsp; _learning_
+- **LLM / GenAI** &nbsp;: &nbsp; `(RAG, vector search, prompt workflows)`
 - **Observability** &nbsp;: &nbsp; `(Grafana, drift monitoring, ablation studies)`
 
 ## ▍ Focus
-
-> The skills I am deepest in, chosen to match what teams are hiring ML engineers for right now.
 
 `Applied ML: messy data to deployed models` &nbsp; `MLOps & model deployment` &nbsp; `Deep learning & sequence modeling` &nbsp; `LLMs, RAG & vector search` &nbsp; `Streaming & real time ML` &nbsp; `ML observability & drift monitoring` &nbsp; `Calibrated uncertainty (conformal prediction)` &nbsp; `Cloud (Azure)`
 
