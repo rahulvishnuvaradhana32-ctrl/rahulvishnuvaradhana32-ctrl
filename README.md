@@ -47,7 +47,7 @@ Built to grade grain quality automatically. A classical computer vision pipeline
 
 <div align="center">
 
-<img width="92%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/profile-3d-contrib/profile-crimson.svg" alt="contribution activity" />
+<img width="420" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/month-grid.svg" alt="this month's contribution activity" />
 
 </div>
 
