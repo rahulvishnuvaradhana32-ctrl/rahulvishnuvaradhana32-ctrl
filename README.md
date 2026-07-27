@@ -1,4 +1,4 @@
-<!-- ═══════════════ BANNER (custom, original) ═══════════════ -->
+<!-- ═══════════════ BANNER (animated terminal, custom) ═══════════════ -->
 <img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/banner.svg" alt="Rahul Vishnuvardhana — Machine Learning Engineer" />
 
 <div align="center">
@@ -12,67 +12,65 @@
 
 </div>
 
----
-
-I build machine learning systems that turn messy, real-world data into decisions people can trust. I sharpened the craft on **banking & fintech reliability** — where the problems are hardest and the cost of being wrong is highest — but the work isn't tied to any one industry. The thread from my undergrad thesis (grain-image analysis) to banking-API failure prediction is the same: **take noisy signals, learn the structure inside them, and ship something useful.**
+Hi, I'm Rahul. I'm a machine learning engineer who enjoys turning messy, real world data into decisions people can actually trust. I first learned the craft in banking and fintech, where the problems are hard and the cost of being wrong is high, and that taught me to treat data defensively and to ship models that hold up in production. My path started with an undergraduate thesis on grain image analysis and led to predicting banking API failures, but the idea never changed: take noisy signals, learn the structure inside them, and build something useful. I care about the engineering around a model, the monitoring, the runbooks, and the tests, just as much as the model itself.
 
 ## ▍ Systems in Production
 
-| System | What it does | Signal | Links |
-|---|---|---|---|
-| **LEO API Intelligence** | Multi-horizon LSTM (+ attention, Conv1d) predicting banking-API failures to support ops decisions | `ROC-AUC 0.8088` · `1.94M rows` · `43 feats` | [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/Leo_Api_Intelligence) · [Live](https://leo-api-intelligence.onrender.com) |
-| **JusTrace** | Real-time transaction anomaly detection — Kafka + River + Isolation Forest + LSTM-AE | `streaming` · `14-service Docker` | [Portfolio](https://rahulvishnuvardhana.vercel.app/#projects) |
-| **RNN vs. Transformer** | Robot trajectory prediction on the NCLT dataset; physics-informed Transformer | `0.1494m ADE` · `0.3509m FDE` | [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/robot-trajectory-rnn-vs-transformer) |
-| **Grain-Quality Assessment** 📄 | Undergrad thesis, peer-reviewed — SVM/RF computer-vision pipeline | `IJETMS Vol. 6, 2022` | [Paper](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf) |
+**🟥 LEO API Intelligence** &nbsp; · &nbsp; [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/Leo_Api_Intelligence) &nbsp; · &nbsp; [Live demo](https://leo-api-intelligence.onrender.com)
+Built to catch banking API failures before they cascade. A multi horizon bidirectional LSTM with attention reads API telemetry and predicts failures early, so operations teams can act ahead of time instead of reacting after an outage.
+
+**🟥 JusTrace** &nbsp; · &nbsp; [Overview](https://rahulvishnuvardhana.vercel.app/#projects)
+Built to spot fraud and anomalies the moment they happen. A Kafka pipeline scores every transaction in real time with three models running in parallel (River online learners, an Isolation Forest, and an LSTM autoencoder), flagging outliers as they stream in.
+
+**🟥 RNN vs. Transformer** &nbsp; · &nbsp; [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/robot-trajectory-rnn-vs-transformer)
+Built to answer a practical question: which architecture predicts robot motion better when data is limited. I benchmarked a recurrent baseline against a physics informed Transformer on the NCLT dataset and measured the real trade offs between them.
+
+**🟥 Grain Quality Assessment** &nbsp; 📄 &nbsp; · &nbsp; [Paper](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf)
+Built to grade grain quality automatically. A classical computer vision pipeline extracts shape, texture, and color features, then classifies quality with SVM and Random Forest. Peer reviewed and published in IJETMS, 2022.
 
 ## ▍ Core Stack
 
-**ML** &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
-&nbsp;&nbsp;**Data** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**MLOps / Infra** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-&nbsp;&nbsp;**Viz** &nbsp;
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+- **AI / ML** &nbsp;: &nbsp; `(PyTorch, scikit-learn, XGBoost, LSTM, Attention, Transformers)`
+- **Data** &nbsp;: &nbsp; `(Python, Pandas, NumPy, SQL, R)`
+- **MLOps / Deploy** &nbsp;: &nbsp; `(Docker, FastAPI, Kafka, CI/CD, Render)`
+- **Cloud** &nbsp;: &nbsp; `(Microsoft Azure, AZ-900 & DP-203 certified)`
+- **LLM / GenAI** &nbsp;: &nbsp; `(RAG, vector search, prompt workflows)` &nbsp;·&nbsp; _learning_
+- **Observability** &nbsp;: &nbsp; `(Grafana, drift monitoring, ablation studies)`
 
 ## ▍ Focus
 
-`Multi-horizon sequence modeling` &nbsp; `Conformal prediction (calibrated uncertainty)` &nbsp; `Anomaly detection` &nbsp; `Streaming / online ML (River + Kafka)` &nbsp; `ML observability & defensive engineering`
+> The skills I am deepest in, chosen to match what teams are hiring ML engineers for right now.
 
-## ▍ Analytics
+`Applied ML: messy data to deployed models` &nbsp; `MLOps & model deployment` &nbsp; `Deep learning & sequence modeling` &nbsp; `LLMs, RAG & vector search` &nbsp; `Streaming & real time ML` &nbsp; `ML observability & drift monitoring` &nbsp; `Calibrated uncertainty (conformal prediction)` &nbsp; `Cloud (Azure)`
+
+## ▍ Activity
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/kpi.svg" alt="key metrics" />
-
-<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/profile-3d-contrib/profile-crimson.svg" alt="3D contribution calendar" />
-
-<img src="https://streak-stats.demolab.com?user=rahulvishnuvaradhana32-ctrl&hide_border=true&background=00000000&stroke=808080&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&titleColor=DC143C&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080" alt="commit streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulvishnuvaradhana32-ctrl&bg_color=00000000&color=DC143C&line=E85D75&point=DC143C&area=true&area_color=DC143C&hide_border=true&custom_title=Contribution%20Throughput" alt="activity graph" />
+<img width="92%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/profile-3d-contrib/profile-crimson.svg" alt="contribution activity" />
 
 </div>
 
 ## ▍ Research
 
-**[ML-based Image Analysis for Grain Quality Assessment](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf)** — *International Journal of Engineering Technology and Management Sciences*, Vol. 6, Issue 4, July 2022. My first peer-reviewed contribution and the seed of everything since. &nbsp;[`Read the paper →`](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf)
+**[ML-based Image Analysis for Grain Quality Assessment](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf)** &nbsp;·&nbsp; *International Journal of Engineering Technology and Management Sciences*, Vol. 6, Issue 4, July 2022. My first peer reviewed contribution and the seed of everything since. &nbsp; [`Read the paper →`](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf)
 
 ## ▍ Contact
 
-- 🔭 Building **JusTrace** — streaming anomaly detection on high-frequency transaction data
-- 📚 Reading up on **conformal prediction** and calibrated uncertainty for production ML
-- 📫 Have an opening, a hard problem, or just want to chat over coffee? **My inbox is always open.**
+**What my days look like.** Training and debugging sequence models, wiring up data pipelines, and making sure whatever I ship can be monitored and trusted once it is live.
+
+**Currently building.** JusTrace, a real time anomaly detection system for high frequency transaction streams.
+
+**Focused on.** Applied ML for reliability, MLOps and clean model deployment, and bringing LLM and RAG techniques into production workflows.
+
+**Reading.** *Algorithmic Learning in a Random World* for conformal prediction, plus papers on anomaly detection and calibrated uncertainty.
+
+<div align="center">
+
+[![Email me](https://img.shields.io/badge/Email%20me-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvardhana.r@northeastern.edu)
+
+Have an opening, a hard problem, or just want to talk shop over coffee? My inbox is always open.
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=110&section=footer" alt="" />
