@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 200" width="520" height="200" font-family="ui-monospace,Consolas,monospace">
+<defs><filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><clipPath id="card"><rect width="520" height="200" rx="14"/></clipPath></defs>
+<rect width="520" height="200" rx="14" fill="#0a0a0c"/>
+<rect width="520" height="200" rx="14" fill="none" stroke="#dc143c" stroke-opacity="0.18"/>
+<text x="22" y="34" font-size="13" font-weight="700" letter-spacing="2" fill="#dc143c">rahul@ml-systems: ~/activity</text>
+<g clip-path="url(#card)"><g>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="0 -176" dur="9s" repeatCount="indefinite"/>
+<text x="22" y="52" font-size="13"><tspan fill="#dc143c">$ </tspan><tspan fill="#eaeaec">git push origin main</tspan></text>
+<text x="22" y="74" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">training · epoch 74/120 · loss 0.214</tspan></text>
+<text x="22" y="96" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">eval · ROC-AUC 0.8088 · PR-AUC 0.5132</tspan></text>
+<text x="22" y="118" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">anomaly flagged · JusTrace stream</tspan></text>
+<text x="22" y="140" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">deploy → render.com ✓</tspan></text>
+<text x="22" y="162" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">conformal coverage 90.3%</tspan></text>
+<text x="22" y="184" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">monitoring · drift nominal</tspan></text>
+<text x="22" y="206" font-size="13"><tspan fill="#dc143c">$ </tspan><tspan fill="#eaeaec">_</tspan></text>
+<text x="22" y="228" font-size="13"><tspan fill="#dc143c">$ </tspan><tspan fill="#eaeaec">git push origin main</tspan></text>
+<text x="22" y="250" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">training · epoch 74/120 · loss 0.214</tspan></text>
+<text x="22" y="272" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">eval · ROC-AUC 0.8088 · PR-AUC 0.5132</tspan></text>
+<text x="22" y="294" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">anomaly flagged · JusTrace stream</tspan></text>
+<text x="22" y="316" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">deploy → render.com ✓</tspan></text>
+<text x="22" y="338" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">conformal coverage 90.3%</tspan></text>
+<text x="22" y="360" font-size="13"><tspan fill="#3ecf6a">➜ </tspan><tspan fill="#eaeaec">monitoring · drift nominal</tspan></text>
+<text x="22" y="382" font-size="13"><tspan fill="#dc143c">$ </tspan><tspan fill="#eaeaec">_</tspan></text>
+</g></g>
+<rect x="0" y="0" width="520" height="44" fill="#0a0a0c"/><text x="22" y="34" font-size="13" font-weight="700" letter-spacing="1" fill="#dc143c">rahul@ml-systems: ~/activity</text>
+</svg>
