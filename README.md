@@ -23,7 +23,7 @@ I build machine learning systems that turn messy, real-world data into decisions
 | **LEO API Intelligence** | Multi-horizon LSTM (+ attention, Conv1d) predicting banking-API failures to support ops decisions | `ROC-AUC 0.8088` · `1.94M rows` · `43 feats` | [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/Leo_Api_Intelligence) · [Live](https://leo-api-intelligence.onrender.com) |
 | **JusTrace** | Real-time transaction anomaly detection — Kafka + River + Isolation Forest + LSTM-AE | `streaming` · `14-service Docker` | [Portfolio](https://rahulvishnuvardhana.vercel.app/#projects) |
 | **RNN vs. Transformer** | Robot trajectory prediction on the NCLT dataset; physics-informed Transformer | `0.1494m ADE` · `0.3509m FDE` | [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/robot-trajectory-rnn-vs-transformer) |
-| **Grain-Quality Assessment** 📄 | Undergrad thesis, peer-reviewed — SVM/RF computer-vision pipeline | `IJETMS Vol. 6, 2022` | Publication |
+| **Grain-Quality Assessment** 📄 | Undergrad thesis, peer-reviewed — SVM/RF computer-vision pipeline | `IJETMS Vol. 6, 2022` | [Paper](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf) |
 
 ## ▍ Core Stack
 
@@ -67,7 +67,7 @@ I build machine learning systems that turn messy, real-world data into decisions
 
 ## ▍ Research
 
-**ML-based Image Analysis for Grain Quality Assessment** — *International Journal of Engineering Technology and Management Sciences*, Vol. 6, July 2022. My first peer-reviewed contribution and the seed of everything since.
+**[ML-based Image Analysis for Grain Quality Assessment](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf)** — *International Journal of Engineering Technology and Management Sciences*, Vol. 6, Issue 4, July 2022. My first peer-reviewed contribution and the seed of everything since. &nbsp;[`Read the paper →`](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf)
 
 ## ▍ Contact
 
