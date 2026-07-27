@@ -57,7 +57,7 @@ I build machine learning systems that turn messy, real-world data into decisions
 
 <img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/kpi.svg" alt="key metrics" />
 
-<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
+<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/profile-3d-contrib/profile-crimson.svg" alt="3D contribution calendar" />
 
 <img src="https://streak-stats.demolab.com?user=rahulvishnuvaradhana32-ctrl&hide_border=true&background=00000000&stroke=808080&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&titleColor=DC143C&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080" alt="commit streak" />
 
