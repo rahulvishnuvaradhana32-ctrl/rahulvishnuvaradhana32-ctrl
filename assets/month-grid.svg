@@ -3,7 +3,7 @@
 <rect width="400" height="420" rx="14" fill="#0a0a0c"/>
 <rect width="400" height="420" rx="14" fill="none" stroke="#dc143c" stroke-opacity="0.18"/>
 <text x="26" y="46" font-size="22" font-weight="700" fill="#f2f2f4">JULY 2026</text>
-<text x="26" y="70" font-size="13" fill="#dc143c">● 45 contributions this month</text>
+<text x="26" y="70" font-size="13" fill="#dc143c">● 47 contributions this month</text>
 <text x="87.0" y="114" font-size="11" fill="#7a7a82" text-anchor="middle">S</text>
 <text x="133.0" y="114" font-size="11" fill="#7a7a82" text-anchor="middle">M</text>
 <text x="179.0" y="114" font-size="11" fill="#7a7a82" text-anchor="middle">T</text>
@@ -105,7 +105,11 @@
 <animate attributeName="opacity" values="1;0.72;1" begin="1.51s" dur="2.6s" repeatCount="indefinite"/>
 </rect>
 <text x="133.0" y="319.0" font-size="10" fill="#fff" text-anchor="middle" opacity="0.85"><animate attributeName="y" from="339.0" to="319.0" begin="0.91s" dur="0.5s" fill="freeze"/>27</text>
-<rect x="162" y="352" width="34" height="0" fill="#120b0e"><animate attributeName="height" from="0" to="3" begin="0.95s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/></rect>
-<rect x="162" y="318" width="34" height="34" rx="4" fill="#1c1116" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="318" to="315" begin="0.95s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+<rect x="162" y="352" width="34" height="0" fill="#3a0610"><animate attributeName="height" from="0" to="10" begin="0.95s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/></rect>
+<rect x="162" y="318" width="34" height="34" rx="4" fill="#5c0a18" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="318" to="308" begin="0.95s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+</rect>
+<text x="179.0" y="329.0" font-size="10" fill="#fff" text-anchor="middle" opacity="0.85"><animate attributeName="y" from="339.0" to="329.0" begin="0.95s" dur="0.5s" fill="freeze"/>28</text>
+<rect x="208" y="352" width="34" height="0" fill="#120b0e"><animate attributeName="height" from="0" to="3" begin="0.98s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/></rect>
+<rect x="208" y="318" width="34" height="34" rx="4" fill="#1c1116" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="318" to="315" begin="0.98s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
 </rect>
 </svg>
