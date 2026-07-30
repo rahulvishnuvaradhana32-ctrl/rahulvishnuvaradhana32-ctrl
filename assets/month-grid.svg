@@ -112,4 +112,7 @@
 <rect x="208" y="352" width="34" height="0" fill="#120b0e"><animate attributeName="height" from="0" to="3" begin="0.98s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/></rect>
 <rect x="208" y="318" width="34" height="34" rx="4" fill="#1c1116" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="318" to="315" begin="0.98s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
 </rect>
+<rect x="254" y="352" width="34" height="0" fill="#120b0e"><animate attributeName="height" from="0" to="3" begin="1.02s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/></rect>
+<rect x="254" y="318" width="34" height="34" rx="4" fill="#1c1116" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="318" to="315" begin="1.02s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+</rect>
 </svg>
