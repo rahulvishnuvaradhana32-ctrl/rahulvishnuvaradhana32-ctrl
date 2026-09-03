@@ -17,4 +17,7 @@
 <rect x="208" y="176" width="34" height="0" fill="#120b0e"><animate attributeName="height" from="0" to="3" begin="0.04s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/></rect>
 <rect x="208" y="142" width="34" height="34" rx="4" fill="#1c1116" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="142" to="139" begin="0.04s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
 </rect>
+<rect x="254" y="176" width="34" height="0" fill="#120b0e"><animate attributeName="height" from="0" to="3" begin="0.07s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/></rect>
+<rect x="254" y="142" width="34" height="34" rx="4" fill="#1c1116" stroke="#000" stroke-opacity="0.25"><animate attributeName="y" from="142" to="139" begin="0.07s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+</rect>
 </svg>
